@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contextime/static/css/main.f1c8076a.css",
+    "main.js": "/contextime/static/js/main.61a06a97.js",
+    "static/js/453.b7a4d51d.chunk.js": "/contextime/static/js/453.b7a4d51d.chunk.js",
+    "index.html": "/contextime/index.html",
+    "main.f1c8076a.css.map": "/contextime/static/css/main.f1c8076a.css.map",
+    "main.61a06a97.js.map": "/contextime/static/js/main.61a06a97.js.map",
+    "453.b7a4d51d.chunk.js.map": "/contextime/static/js/453.b7a4d51d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c8076a.css",
+    "static/js/main.61a06a97.js"
+  ]
+}
